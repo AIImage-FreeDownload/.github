@@ -1,6 +1,6 @@
-<div align="center">
+<img src="https://raw.githubusercontent.com/AIImage-FreeDownload/.github/main/profile/off-hero.jpg" alt="AI generated portrait example" width="100%">
 
-<img src="https://raw.githubusercontent.com/AIImage-FreeDownload/.github/main/profile/banner-v2.jpg" alt="AI image generator free — unlimited pictures, no credits" width="100%">
+<div align="center">
 
 # AI Image Generator
 
@@ -11,20 +11,20 @@
 ![Watermark](https://img.shields.io/badge/Watermark-None-7C3AED?style=flat-square)
 ![Pack](https://img.shields.io/badge/Pack-~339%20MB-7C3AED?style=flat-square)
 
-<img src="https://raw.githubusercontent.com/AIImage-FreeDownload/.github/main/profile/preview-v2.jpg" alt="AI generated artwork examples" width="88%">
-
 </div>
 
+<p align="center"><sub>Example outputs from the models inside: photoreal, product and illustration styles.</sub></p>
+
 Type a sentence, get a picture worth framing. This generator bundles the best current image models into one Windows app and removes the paywall math — no credit packs, no "10 free generations a day", no logo stamped in the corner of your work.
+
+| <img src="https://raw.githubusercontent.com/AIImage-FreeDownload/.github/main/profile/off-gal1.jpg" alt="Generated product shot with readable text" width="100%"> | <img src="https://raw.githubusercontent.com/AIImage-FreeDownload/.github/main/profile/off-gal2.jpg" alt="Generated illustration example" width="100%"> |
+| :---: | :---: |
+| *Generated product shot with readable text* | *Generated illustration example* |
 
 ## Models inside
 
 | Model | Best at |
 | --- | --- |
-| **Flux Pro** | Photoreal people, products and advertising shots |
-| **SDXL Turbo** | Fast drafts and wild style experiments |
-| **RealVis** | Portraits with natural skin and light |
-| **Anime XL** | Clean anime and illustration styles |
 
 ## Prompts that actually work
 
@@ -34,9 +34,7 @@ The generator rewards detail. Three formulas that never miss:
 - **Product:** `matte black headphones on wet slate, studio rim light, advertising photo`
 - **World-building:** `floating islands above a sea of clouds, ghibli skies, morning gold`
 
-| <img src="https://raw.githubusercontent.com/AIImage-FreeDownload/.github/main/profile/shot2-v2.jpg" alt="AI generated landscape art"> | <img src="https://raw.githubusercontent.com/AIImage-FreeDownload/.github/main/profile/shot3-v2.jpg" alt="AI generated character art"> |
 | :---: | :---: |
-| *Landscapes in seconds* | *Characters with a consistent look* |
 
 ## Good to know
 
