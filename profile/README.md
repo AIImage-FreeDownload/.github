@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AIImage-FreeDownload/.github/main/profile/banner.jpg" alt="AI image generator free — unlimited pictures, no credits" width="100%">
+<img src="https://raw.githubusercontent.com/AIImage-FreeDownload/.github/main/profile/banner-v2.jpg" alt="AI image generator free — unlimited pictures, no credits" width="100%">
 
 # AI Image Generator
 
