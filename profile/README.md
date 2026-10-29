@@ -11,7 +11,7 @@
 ![Watermark](https://img.shields.io/badge/Watermark-None-7C3AED?style=flat-square)
 ![Pack](https://img.shields.io/badge/Pack-~339%20MB-7C3AED?style=flat-square)
 
-<img src="https://raw.githubusercontent.com/AIImage-FreeDownload/.github/main/profile/preview.jpg" alt="AI generated artwork examples" width="88%">
+<img src="https://raw.githubusercontent.com/AIImage-FreeDownload/.github/main/profile/preview-v2.jpg" alt="AI generated artwork examples" width="88%">
 
 </div>
 
@@ -34,7 +34,7 @@ The generator rewards detail. Three formulas that never miss:
 - **Product:** `matte black headphones on wet slate, studio rim light, advertising photo`
 - **World-building:** `floating islands above a sea of clouds, ghibli skies, morning gold`
 
-| <img src="https://raw.githubusercontent.com/AIImage-FreeDownload/.github/main/profile/shot2.jpg" alt="AI generated landscape art"> | <img src="https://raw.githubusercontent.com/AIImage-FreeDownload/.github/main/profile/shot3.jpg" alt="AI generated character art"> |
+| <img src="https://raw.githubusercontent.com/AIImage-FreeDownload/.github/main/profile/shot2-v2.jpg" alt="AI generated landscape art"> | <img src="https://raw.githubusercontent.com/AIImage-FreeDownload/.github/main/profile/shot3-v2.jpg" alt="AI generated character art"> |
 | :---: | :---: |
 | *Landscapes in seconds* | *Characters with a consistent look* |
 
