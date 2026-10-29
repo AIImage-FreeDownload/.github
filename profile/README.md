@@ -34,8 +34,6 @@ The generator rewards detail. Three formulas that never miss:
 - **Product:** `matte black headphones on wet slate, studio rim light, advertising photo`
 - **World-building:** `floating islands above a sea of clouds, ghibli skies, morning gold`
 
-| :---: | :---: |
-
 ## Good to know
 
 - **Any size** — square, portrait, ultrawide and custom ratios
